@@ -5,8 +5,9 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "start": "nuxt build; nuxi start"
+    "start": "nuxi start"
   },
+  "heroku-run-build-script": true,
   "devDependencies": {
     "nuxt": "3.0.0-rc.6"
   }
