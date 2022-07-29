@@ -1,11 +1,12 @@
 {
   "private": true,
   "scripts": {
+    "heroku-prebuild": "nuxt build",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "start": "nuxt start"
+    "start": "nuxi start"
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.6"
