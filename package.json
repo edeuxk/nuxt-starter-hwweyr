@@ -6,7 +6,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "start": "nuxi start"
+    "start": "nuxt preview"
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.6"
